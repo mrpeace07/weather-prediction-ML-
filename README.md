@@ -49,27 +49,6 @@ NumPy: For numerical computations.
 Matplotlib & Seaborn: For data visualization to better understand the dataset and model performance.
 
 
-
-
-
-Results
-City Weather Forecast
-![City View](city.png)
-
-
-User Interface
-![Interface](interface.png)
-*Figure 2: User interface for weather prediction.*
-
-
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, please submit a pull request or open an issue.
-
-Acknowledgements
-Scikit-learn Documentation
-Pandas Documentation
-NumPy Documentation
-
 Installation
 
 To run this project locally, follow these steps:
@@ -88,4 +67,25 @@ To run this project locally, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+
+
+
+Results
+City Weather Forecast
+![City View](city.png)
+
+
+User Interface
+![Interface](interface.png)
+
+
+
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, please submit a pull request or open an issue.
+
+Acknowledgements
+Scikit-learn Documentation
+Pandas Documentation
+NumPy Documentation
+
 
