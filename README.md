@@ -70,3 +70,22 @@ Scikit-learn Documentation
 Pandas Documentation
 NumPy Documentation
 
+Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/yourusername/weather-prediction.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```sh
+    cd weather-prediction
+    ```
+
+3. **Install the required dependencies**:
+    ```sh
+    pip install -r requirements.txt
+    ```
+
